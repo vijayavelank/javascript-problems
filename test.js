@@ -25,7 +25,7 @@ form.appendChild(ageInput);
 form.appendChild(document.createElement("br"));
 form.appendChild(document.createElement("br"));
 
-// ------- Email Field -------
+// ------- Email Field ---  ----
 const emailLabel = document.createElement("label");
 emailLabel.textContent = "Email: ";
 const emailInput = document.createElement("input");
