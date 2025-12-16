@@ -3,7 +3,7 @@
 const form = document.createElement("form");
 form.id = "studentForm";
 
-// ------- Name Field -------
+// ------- Name Field ----------
 const nameLabel = document.createElement("label");
 nameLabel.textContent = "Name: ";
 const nameInput = document.createElement("input");
