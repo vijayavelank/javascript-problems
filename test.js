@@ -14,7 +14,7 @@ form.appendChild(nameInput);
 form.appendChild(document.createElement("br"));
 form.appendChild(document.createElement("br"));
 
-// ------- Age Field -------
+// ------- Age Field -       ------
 const ageLabel = document.createElement("label");
 ageLabel.textContent = "Age: ";
 const ageInput = document.createElement("input");
